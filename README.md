@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm passionate for learning and always looking for new things I can dive into.\
 ✍️ &nbsp;I'm interested in Blockchain and decentralization.\
 ✊ &nbsp; I firmly believe that we as developers have the responsability to work towards giving people their autonomy and privacy back.\
-✉️ &nbsp;You can contact me at pablodclavijo@gmail.com if you'd like me to work with you or just to have a chat.\
+✉️ &nbsp;You can contact me at pablodclavijo@gmail.com if you'd like me to work with you or just to have a chat.
 
 
 ## 🛠 &nbsp;Tech Stack
