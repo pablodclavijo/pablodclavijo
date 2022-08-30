@@ -29,7 +29,7 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width='50px'/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width='50px'/>
 
- ##### SEO-friendly summary: Javascript, C, Express, Redux, React, NODE, PostgreSQL, MongoDB, MySQL, , HTML, CSS, MUI, Git, Github, Visual Studio Code
+ ##### SEO-friendly summary: Javascript, C, Express, Redux, React, NODE, PostgreSQL, MongoDB, MySQL, , HTML, CSS, MUI, Git, Visual Studio Code
   
 </p>
 
