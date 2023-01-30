@@ -3,12 +3,17 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to bring great ideas to life and collaborate on things that make this a better, smaller, more interconnected world .\
-🎓 &nbsp;I'm currently working with Javascript, specially with the libraries React, Sequelize, Mongoose and Express.\
 🤖 &nbsp;I used to code in C but then I realized life doesn't have to be painful.\
+🎓 &nbsp;I'm currently working with .NET, C#, Visual Basic and Wisej, but I'm also quite comfortable with other stacks like MERN .\
 🌱 &nbsp;I'm passionate for learning and always looking for new things I can dive into.\
-✍️ &nbsp;I'm interested in Blockchain and decentralization.\
-✊ &nbsp; I firmly believe that we as developers have the responsability to work towards giving people their autonomy and privacy back.\
+♟️ &nbsp;I love solving problems and finding ways to do things quicker and easeier .\
+✊ &nbsp;I firmly believe that we as developers have the responsability to work towards giving people their autonomy and privacy back.\
 ✉️ &nbsp;You can contact me at pablodclavijo@gmail.com if you'd like me to work with you or just to have a chat.
+
+
+## ⚠️ &nbps;Warning
+
+I'm currently using Bitbucket as version control system, so you might not be impressed by my green squares thingy at the bottom of the page
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -20,16 +25,19 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width='50px'/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width='50px'/>
 <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width='50px'/>
+ <img src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" width='50px'/>
+ <img src="https://play-lh.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk" width='50px'/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width='50px'/>
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width='50px'/>
 <img src="https://w7.pngwing.com/pngs/732/675/png-transparent-mysql-database-dump-computer-icons-others-miscellaneous-blue-text-thumbnail.png" width='50px'/>
+ 
 <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" width='50px'/>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width='50px'/>
 <img src="https://mui.com/static/logo.png" width='50px'/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width='50px'/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width='50px'/>
 
- ##### SEO-friendly summary: Javascript, C, Express, Redux, React, NODE, PostgreSQL, MongoDB, MySQL, , HTML, CSS, MUI, Git, Visual Studio Code
+ ##### SEO-friendly summary: Javascript, C, Express, Redux, React, NODE, PostgreSQL, MongoDB, MySQL, C#, .NET Framework, Visual Basic, HTML, CSS, MUI, Git, Visual Studio Code
   
 </p>
 
